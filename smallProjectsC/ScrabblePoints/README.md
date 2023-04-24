@@ -6,7 +6,7 @@ This program assigns a point value to every letter of the alphabet. It prompts p
 
 1. Run the program
 2. Player 1 inputs a word
-3. Player 2 inputs a word following the last letter of the previous word from Player 1
+3. Player 2 inputs a word
 4. The program calculates the point values for both words and announces the winner of the round
 5. Repeat steps 3-4 until the game is finished
 
