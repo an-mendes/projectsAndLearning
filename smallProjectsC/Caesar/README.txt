@@ -1,7 +1,11 @@
-Program that uses commandline arguments to create ciphers out of user input.
+# Cipher Program
 
-The command line argument is going to be converted to an integer, which then in turn shifts the index of the alphabet to the corresponding integer. 
+This program uses command line arguments to create ciphers out of user input.
 
-Example: command line argument: 3
+The command line argument is converted to an integer, which then shifts the index of the alphabet to the corresponding integer.
+
+**Example:**
+
+Command line argument: 3
 User input: abc
 Expected output: dfg
